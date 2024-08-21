@@ -1,1 +1,1 @@
-# ML-Calories-Burnt-Prediction
+# ML CaloriBurn-Calories-Burnt-Prediction
